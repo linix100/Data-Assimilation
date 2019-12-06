@@ -1,8 +1,8 @@
-###I will release a package(DHIPF-RNN) in Python AFTER two related papers got published in 2020. 
+### I will release a package(DHIPF-RNN) in Python AFTER two related papers got published in 2020. 
 
-###About me: I am doing research on Nonlinear Filtering Algorithm under the supervision of [Dr. Gallivan](https://www.math.fsu.edu/~gallivan/) and [Dr. Bao](https://www.math.fsu.edu/~bao/)  
+### About me: I am doing research on Nonlinear Filtering Algorithm under the supervision of [Dr. Gallivan](https://www.math.fsu.edu/~gallivan/) and [Dr. Bao](https://www.math.fsu.edu/~bao/)  
 
-**[Xin Li](Xin%20Li/)'s research**
+**My research**
     > A new algorithm (Drift homotopy implicit particle filter or DHIPF) is proposed which is a combination of Implicit sampling and homotopy method. We showed by experiments that DHIPF is faster than drift homotopy particle filters in computations while at same accuracy level. And DHIPF is more accurate (in the measure of Mean square error ) than IPF when we have sparse observations and accurate prediction dynamics.
     > A new algorithm to improve RNN in stochastic process predictions is proposed. By representing the recurrent information(a deterministic vector) by a distribution which approximated by particles, we could improve the training process of RNN
 
